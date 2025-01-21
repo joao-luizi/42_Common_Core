@@ -1,6 +1,6 @@
 | Project      | Description                                                                                              | Score | 
 |--------------|----------------------------------------------------------------------------------------------------------|-------|
-| **Libft**    | This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus. | 125/100  |
+| [**Libft**](https://github.com/joao-luizi/42_Common_Core_Libft)    | This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus. | 125/100  |
 | **ft_printf**| This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects. | 125/100  |
 | **Born2beRoot** | This project aims to introduce you to the wonderful world of virtualization. | 125/100 |
 | **get_next_line** | May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.        | 125/100 |
