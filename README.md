@@ -1,3 +1,8 @@
+I started my Common Core at 08-04-2024.
+
+You can checkout my [Piscine-15](https://github.com/joao-luizi/42_Piscine-15) code
+
+
 | Project      | Description                                                                                              | Score | 
 |--------------|----------------------------------------------------------------------------------------------------------|-------|
 | [**Libft**](https://github.com/joao-luizi/42_Common_Core_Libft)    | This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus. | 125/100  |
