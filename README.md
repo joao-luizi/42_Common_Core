@@ -13,6 +13,6 @@ You can checkout my [Piscine-15](https://github.com/joao-luizi/42_Piscine-15) co
 | [**minitalk**](https://github.com/joao-luizi/42_minitalk)  | The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.                         | 125/100 |
 | [**fract-ol**](https://github.com/joao-luizi/42_fract-ol)   |Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX.      | 125/100 |
 | [**Philosophers**](https://github.com/joao-luizi/philo)   | A concurrency simulation of the dining philosophers problem using threads and mutexes (and semaphores) in C.    | 125/100 |
-| [**Minishell**](https://github.com/joao-luizi/Minishell)   | A simple Unix shell implementation in C, handling command parsing, execution, redirections, and pipelines.  | 125/100 |
+| [**Minishell**](https://github.com/joao-luizi/Minishell)   | A simple Unix shell implementation in C, handling command parsing, execution, redirections, and pipelines.  | 95/100 |
 
 
