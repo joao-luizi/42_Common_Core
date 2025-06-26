@@ -14,5 +14,5 @@ You can checkout my [Piscine-15](https://github.com/joao-luizi/42_Piscine-15) co
 | [**fract-ol**](https://github.com/joao-luizi/42_fract-ol)   |Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX.      | 125/100 |
 | [**Philosophers**](https://github.com/joao-luizi/philo)   | A concurrency simulation of the dining philosophers problem using threads and mutexes (and semaphores) in C.    | 125/100 |
 | [**Minishell**](https://github.com/joao-luizi/Minishell)   | A simple Unix shell implementation in C, handling command parsing, execution, redirections, and pipelines.  | 95/100 |
-
+| [**cub3D**](https://github.com/joao-luizi/42_cub3D)   | A raycasting-based 3D engine in C, inspired by Wolfenstein 3D, rendering a first-person view from a 2D map. | 125/100 |
 
