@@ -15,4 +15,4 @@ You can checkout my [Piscine-15](https://github.com/joao-luizi/42_Piscine-15) co
 | [**Philosophers**](https://github.com/joao-luizi/philo)   | A concurrency simulation of the dining philosophers problem using threads and mutexes (and semaphores) in C.    | 125/100 |
 | [**Minishell**](https://github.com/joao-luizi/Minishell)   | A simple Unix shell implementation in C, handling command parsing, execution, redirections, and pipelines.  | 95/100 |
 | [**cub3D**](https://github.com/joao-luizi/42_cub3D)   | A raycasting-based 3D engine in C, inspired by Wolfenstein 3D, rendering a first-person view from a 2D map. | 125/100 |
-
+| [**ft_irc**](https://github.com/joao-luizi/42_irc)   | An IRC server implementation in C++, based on the IRC protocol, supporting client connections, messaging, and channel management. | 100/100 |
